@@ -12,7 +12,7 @@ This project detects fraudulent credit card transactions using K-Means Clusterin
 
 The dataset used for this project is available in the **Releases** section.
 
-🔗 **[Download the dataset](https://github.com/ridomrisha30/YOUR_REPO/releases/latest)**
+🔗 **[Download the dataset](https://github.com/ridomrisha30/credit-card-fraud-kmeans-lda/releases/tag/v1.0)**
 
 
 ## Methodology
