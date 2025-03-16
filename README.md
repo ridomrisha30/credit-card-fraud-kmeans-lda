@@ -32,7 +32,7 @@ The dataset used for this project is available in the **Releases** section.
 * Evaluated model performance with accuracy score.
 * Visualized LDA decision boundary.
 
-  ## Results
+## Results
 
 * Effective fraud detection using combined clustering and classification.
 * Clear decision boundaries for fraud and non-fraud transactions.
@@ -46,7 +46,7 @@ The dataset used for this project is available in the **Releases** section.
 * Scikit-Learn (K-Means, LDA, Accuracy Evaluation)
 * Matplotlib, Seaborn (Visualization)
 
-  ## Future Improvements
+## Future Improvements
 
 * Incorporate additional features for better fraud detection.
 * Experiment with other anomaly detection methods.
