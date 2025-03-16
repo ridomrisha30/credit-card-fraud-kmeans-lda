@@ -13,18 +13,15 @@ This project detects fraudulent credit card transactions using K-Means Clusterin
 ## Methodology
 
 1. Data Preprocessing
-
 * Selected Amount and Time as key features.
 * Scaled features using Min-Max Scaling.
 
 2. K-Means Clustering (Unsupervised Learning)
-
 * Applied Elbow Method to determine the optimal number of clusters.
 * Used K-Means with n_clusters=2 to separate fraud and non-fraud transactions.
 * Visualized clusters and centroids.
 
 3. Fisher’s LDA for Classification (Supervised Learning)
-
 * Split dataset into train (80%) and test (20%).
 * Trained LDA model on transaction data.
 * Evaluated model performance with accuracy score.
